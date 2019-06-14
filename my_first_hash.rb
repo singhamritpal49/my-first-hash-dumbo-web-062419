@@ -39,7 +39,6 @@ def adding
                 
   # add 2 muskets to the shipping_manifest hash below
 shipping_manifest["muskets"]=2
-binding.pry
 
 shipping_manifest.each do |key,value|
 binding.pry
